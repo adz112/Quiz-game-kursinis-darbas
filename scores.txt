@@ -1,0 +1,5 @@
+C:\Users\adoma\AppData\Local\Python\pythoncore-3.14-64\python.exe "c:/Users/adoma/OneDrive/Dokument/python codes/python/main.py",1
+adam,0
+povilas,1
+adam,0
+danil,1

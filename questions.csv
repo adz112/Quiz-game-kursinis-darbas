@@ -1,0 +1,7 @@
+type,question,options,answer
+mc,Kiek yra 2+2?,4|5|3|ų,4
+mc,Kas yra inkapsuliacijos tikslas?,Apsaugoti duomenis|Padaryti kodą lėtesnį|Sumažinti RAM|Sukurti failus,Apsaugoti duomenis
+mc,Kuris principas reiškia duomenų paslėpimą klasėje?,Inkapsuliacija|Polimorfizmas|Paveldėjimas|Abstrakcija,Inkapsuliacija
+mc,Kas yra polimorfizmas?,Galimybė naudoti vienodą sąsają skirtingiems tipams|Duomenų paslėpimas|Kodo paveldėjimas|Kodo abstrakcija,Galimybė naudoti vienodą sąsają skirtingiems tipams
+mc,Kas yra paveldėjimas?,Galimybė kurti naujas klases iš esamų|Duomenų paslėpimas|Kodo abstrakcija|Kodo polimorfizmas,Galimybė kurti naujas klases iš esamų
+mc,Ar aš gausiu 10 už gynimą?,taip|mehhh|nežinau|nerupi,taip
